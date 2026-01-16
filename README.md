@@ -26,7 +26,7 @@ All achieved using **SQL** for heavy lifting and **Excel** (Power Query + PivotT
 
 | Feature                        | Description                                                                 |
 |--------------------------------|-----------------------------------------------------------------------------|
-| **SQL Data Modeling**          | Complex joins, CTEs, window functions for clean aggregation & accurate revenue attribution across Amazon, Jumia, Souq |
+| **SQL Data Modeling**          | Complex joins, window functions for clean aggregation & accurate revenue attribution across Amazon, Jumia, Souq |
 | **Data Cleaning & ETL**        | Power Query transformations for handling missing values, currency standardization, date normalization, platform-specific quirks |
 | **Advanced Excel Visualization** | Custom **dark mode** UI, dynamic charts, conditional formatting, KPI cards|
 | **Key Metrics Tracked**        | MTD Revenue • MoM Growth % • Market Share % • Top Cities • Avg Order Value • Customer Sentiment Score |
@@ -37,4 +37,10 @@ All achieved using **SQL** for heavy lifting and **Excel** (Power Query + PivotT
 - **Excel** (Power Query, PivotTables, dynamic arrays, conditional formatting, custom themes)  
 - **Data Sources**: Anonymized transaction exports from Amazon Seller Central, Jumia Seller Hub, Souq/Amazon.ae backend
 
-## Project Structure
+Connect with MeGitHub: @AabdulwaleedD  
+X / Twitter: @Aabdul_HameedD
+  
+LinkedIn: Abdulhamid Abdulwalid Danjuma  
+Portfolio: aabdulwaleedd.github.io
+
+Feel free to fork, star , or reach out if you're working on similar e-commerce analytics projects in MENA!
