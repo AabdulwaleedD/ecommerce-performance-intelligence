@@ -37,10 +37,30 @@ All achieved using **SQL** for heavy lifting and **Excel** (Power Query + PivotT
 - **Excel** (Power Query, PivotTables, dynamic arrays, conditional formatting, custom themes)  
 - **Data Sources**: Anonymized transaction exports from Amazon Seller Central, Jumia Seller Hub, Souq/Amazon.ae backend
 
-Connect with MeGitHub: @AabdulwaleedD  
-X / Twitter: @Aabdul_HameedD
-  
-LinkedIn: Abdulhamid Abdulwalid Danjuma  
-Portfolio: aabdulwaleedd.github.io
 
-Feel free to fork, star , or reach out if you're working on similar e-commerce analytics projects in MENA!
+---
+
+## 🚀 How This Project Adds Value
+- Converts **raw backend data** into **actionable business intelligence**
+- Bridges the gap between **technical analysis and executive strategy**
+- Demonstrates real-world application of **SQL + Excel at scale**
+- Designed with **stakeholder decision-making** in mind
+
+---
+
+## 🔗 Portfolio
+This project is part of my professional portfolio:  
+👉 **Portfolio Website:** https://aabdulwaleedd.github.io  
+
+---
+
+## 👤 Author
+**Abdulhamid Abdulwalid Danjuma**  
+Healthcare & Business Data Analyst  
+- GitHub: https://github.com/AabdulwaleedD  
+- LinkedIn: https://linkedin.com/in/abdulhamid-abdulwalid-danjuma  
+- X (Twitter): https://x.com/Aabdul_HameedD  
+
+---
+
+⭐ If you find this project insightful, feel free to star the repository!
